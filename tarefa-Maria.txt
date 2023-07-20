@@ -1,0 +1,15 @@
+Olá, meu nome é Maria Julia Jardim
+
+ Durante o curso, tive a chance de mergulhar no mundo do desenvolvimento web e explorar os fundamentos
+do HTML e CSS por meio de projetos práticos, como a criação de uma locadora 2000 virtual e uma estante de livros interativa.
+
+ Uma das coisas que mais me impressionaram foi a variedade de estilizações que aprendi. Desde a aplicação de estilos básicos,
+ até técnicas mais avançadas, fui capaz de criar designs atraentes e responsivos. A cada lição, ficava maravilhada ao ver meu código 
+se transformar em interfaces bonitas e funcionais.
+  O professor desse curso tem uma didática excelente. Ele explicou os conceitos de forma clara e detalhada, sempre incentivando a participação
+ e respondendo prontamente a todas as dúvidas. Sua atenção aos detalhes e paciência ao explicar os tópicos mais complexos realmente tornaram o processo de aprendizagem suave e prazeroso.
+
+ Estou extremamente satisfeita com os resultados obtidos. Aprendi não apenas as bases do desenvolvimento front-end, mas também adquiri habilidades
+ práticas que me permitem criar interfaces atraentes e funcionais. Ter essa bagagem é um diferencial significativo no mercado de trabalho atual, 
+onde a demanda por profissionais de desenvolvimento web está em constante crescimento.
+ 
